@@ -1,0 +1,17 @@
+#Create instance for jenkins using terraform
+
+#Create two instance for k8s cluster using terraform
+
+#Create key,security group etc. using terraform
+
+#install git, docker in jenkins and k8s instances using terraform and ansible
+
+#install jenkins in jenkins instance using terraform and ansible
+
+#install k8s in k8s cluster using terraform and ansible
+
+#write shell scripts if required
+
+#create an application using python code --> Need to learn --> starting from 1st Aug
+
+#install prometheus for monitoring k8s --> Need to learn --> starting from 1st Aug
