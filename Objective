@@ -2,7 +2,7 @@
 
 #Create two instance for k8s cluster using terraform
 
-#Create key,security group etc. using terraform
+#Create key,security group etc. using terraform --> done
 
 #install git, docker in jenkins and k8s instances using terraform and ansible
 
@@ -15,3 +15,5 @@
 #create an application using python code --> Need to learn --> starting from 1st Aug
 
 #install prometheus for monitoring k8s --> Need to learn --> starting from 1st Aug
+
+#Deploy python application on k8s cluster
